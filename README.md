@@ -1,6 +1,9 @@
 ### Hi there 👋
+### This was my personal sites,
+### ⚡ using HUGO framework "The world's fastest framework for building websites" ⚡
+###
 ### My name is Muhammad Rizqi Adnan Pratama, 
-### currently i'am focusing on cloud infrastructure (AWS) and CI/CD tools, provisioning tools and configuration management tools
+### 🔭 i'am focusing on cloud infrastructure (AWS) and CI/CD tools, provisioning tools and configuration management tools
 ### 
 ###
 <!--
