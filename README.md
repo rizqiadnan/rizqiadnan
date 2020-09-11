@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### My name is Muhammad Rizqi Adnan Pratama, 
+### currently i'am focusing on cloud infrastructure (AWS) and CI/CD tools, provisioning tools and configuration management tools
+### 
+###
 <!--
 **rizqiadnan/rizqiadnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
