@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Berkenalan dengan Amazon Web Service (AWS)"
+title = "Berkenalan dengan Amazon Web Services (AWS)"
 date = "2020-09-12"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
@@ -20,7 +20,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Seperti yang kita ketahui,platform cloud computing saat ini sedang diminati oleh perusahaan start-up yang ingin aplikasi nya di 
 <!--more-->
 
 ## Headings
