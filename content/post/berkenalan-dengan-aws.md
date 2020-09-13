@@ -1,25 +1,14 @@
 +++
+aliases = ["introduce-to-aws"]
 author = "Hugo Authors"
-title = "Berkenalan dengan Amazon Web Services (AWS)"
-date = "2020-09-12"
+categories = ["cloud computing", "aws"]
+date = 2020-09-12T00:00:00Z
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "aws",
-    "amazon",
-    "vpc",
-    "route 53",
-    "ec2",
-    "elastic beanstalk",
-    "rds",
-]
-categories = [
-    "cloud computing",
-    "aws",
-]
 series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
-+++
+tags = ["aws", "amazon", "vpc", "route 53", "ec2", "elastic beanstalk", "rds"]
+title = "Berkenalan dengan Amazon Web Services (AWS)"
 
++++
 Seperti yang kita ketahui,platform cloud computing saat ini sedang diminati oleh perusahaan start-up yang ingin aplikasi nya di 
 <!--more-->
 
@@ -151,4 +140,3 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
