@@ -9,18 +9,22 @@ tags = ["aws", "amazon", "vpc", "route 53", "ec2", "elastic beanstalk", "rds"]
 title = "Berkenalan dengan Amazon Web Services (AWS)"
 
 +++
-Seperti yang kita ketahui,platform cloud computing saat ini sedang diminati oleh perusahaan start-up yang ingin aplikasi nya di 
-<!--more-->
+Seperti yang kita ketahui,platform cloud computing saat ini sedang diminati oleh perusahaan start-up yang ingin aplikasi nya di publish se-efisien dan secepat mungkin. <!--more-->
 
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
+
 ## H2
+
 ### H3
+
 #### H4
+
 ##### H5
+
 ###### H6
 
 ## Paragraph
@@ -36,48 +40,47 @@ The blockquote element represents content that is quoted from another source, op
 #### Blockquote without attribution
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+> **Note** that you can use _Markdown syntax_ within a blockquote.
 
 #### Blockquote with attribution
 
 > Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
+> — <cite>Rob Pike\[^1\]</cite>
 
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+\[^1\]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ## Tables
 
 Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
 
-   Name | Age
---------|------
+| Name | Age |
+
     Bob | 27
-  Alice | 23
+
+Alice | 23
 
 #### Inline Markdown within tables
 
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
+| Inline    | Markdown    | In    | Table |
+| --- | --- | --- | --- |
+| italics | bold | strikethrough    | code |
 
 ## Code Blocks
 
 #### Code block with backticks
 
-```
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
+    html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <title>Example HTML5 Document</title>
+    </head>
+    <body>
+      <p>Test</p>
+    </body>
+    </html>
+
 #### Code block indented with four spaces
 
     <!DOCTYPE html>
@@ -92,15 +95,16 @@ html
     </html>
 
 #### Code block with Hugo's internal highlight shortcode
+
 {{< highlight html >}}
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
+<meta charset="UTF-8">
+<title>Example HTML5 Document</title>
 </head>
 <body>
-  <p>Test</p>
+<p>Test</p>
 </body>
 </html>
 {{< /highlight >}}
