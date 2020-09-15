@@ -1,4 +1,4 @@
-baseURL = "http://rizqiadnan.my.id.s3-website-ap-southeast-1.amazonaws.com/"
+baseURL = "https://rizqiadnan.my.id/"
 languageCode = "id"
 DefaultContentLanguage = "id"
 title = "Website of Rizqi Adnan"
