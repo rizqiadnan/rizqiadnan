@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizqi Adnan</h1>
+<h1 align="left">Hi 👋, I'm Rizqi Adnan</h1>
 <h3 align="center">A passionate DevOps Engineer and Data Enthusiast from Jakarta, ID!</h3>
 
 - 🔭 I’m currently working on **Platform engineering, Data Engineering, Infrastructure (cloud,code,ci/cd)**
